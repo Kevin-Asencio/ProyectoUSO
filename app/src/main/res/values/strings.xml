@@ -1,0 +1,33 @@
+<resources>
+    <!-- Nombre de aplicacion -->
+    <string name="app_name">ProyectoUSO</string>
+
+    <!-- Textos de la Activity MainActivity -->
+    <string name="lbl_boton_iniciarsesion">Iniciar Sesion</string>
+    <string name="lbl_title_mainactivity">"Bienvenido"</string>
+
+    <!--Textos menu de navegacion-->
+    <string name="title_contactos">Contactos</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_reportes">Reportes</string>
+
+    <!-- Textos de la Activity Login -->
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contraseña">Contraseña</string>
+    <string name="lbl_checkbox_recordar">Recordar datos</string>
+    <string name="lbl_boton_login">Aceptar</string>
+    <string name="lbl_usuario_invalido">Usuario no valido</string>
+    <string name="lbl_contraseña_invalida">Contraseña vacia </string>
+    <string name="lbl_msj_error">Usuario/Contraseña incorrectos</string>
+    <string name="lbl_title_error">¡Aviso!</string>
+    <string name="lbl_title_successful">successful</string>
+    <string name="lbl_msj_successful">Bienvenido: </string>
+
+    <!-- Textos de la Activity Principal -->
+    <string name="lbl_title_principal">Inicio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_proveedores">Proveedores</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigacion_Inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="@string/title_inicio" />
+
+    <item
+        android:id="@+id/navigacion_contacto"
+        android:icon="@drawable/ic_contactos"
+        android:title="@string/title_contactos" />
+    <item
+        android:id="@+id/navigacion_Proveedores"
+        android:icon="@drawable/ic_proveedores"
+        android:title="@string/title_proveedores" />
+    <item
+        android:id="@+id/navigacion_scanner"
+        android:icon="@drawable/ic_scanner"
+        android:title="@string/title_scanner" />
+
+    <item
+        android:id="@+id/navigacion_reporte"
+        android:icon="@drawable/ic_reportes"
+        android:title="@string/title_reportes" />
+
+</menu>
